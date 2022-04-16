@@ -10,7 +10,7 @@ export function Footer(){
             <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
             <View style={style.footer}>
                 <Image style={style.image} source={require("../../../assets/icons8-calendario-64.png")}/>
-                <Image style={style.image} source={require("../../../assets/icons8-casa-16.png")}/>
+                <Image style={style.image} source={require("../../../assets/botao-home.png")}/>
                 <Image style={style.image} source={require("../../../assets/icons8-health-64.png")}/>
             </View>
             </ScrollView>

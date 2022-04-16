@@ -2,16 +2,14 @@ import {StyleSheet} from 'react-native'
 
 const styles = StyleSheet.create({
     boxTitle: {
-        alignItems:"center",
         justifyContent:"center",
         paddingLeft:40,
         paddingRight:40,
         paddingBottom:30,
     },
     textTitle: {
-        textAlign:"center",
-        color:"#000000",
-        fontSize:45,
+        color:"#212F47",
+        fontSize:28,
         fontWeight:"normal",
     },
     formLabel: {
